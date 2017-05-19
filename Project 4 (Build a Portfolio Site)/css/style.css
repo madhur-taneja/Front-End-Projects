@@ -1,0 +1,41 @@
+.container {
+	font-family: "Mr Dafoe", cursive;
+}
+
+.logo-image {
+	padding-top: 20px;
+}
+
+.logo {
+    border-radius: 15px;
+    margin-top: 10px;
+	box-shadow: 6px 6px 6px;
+	width: 6vw;
+}
+
+.heading {
+	margin-top: 10px;
+	color: #2d3c49;
+}
+
+hr,
+.hr {
+	height: 7px;
+	color: #7d97ad;
+}
+
+.cover-image {
+  border-radius: 15px;
+  width: 275vh;
+  border: 10px solid;
+}
+
+.image {
+	border-radius: 15px;
+	width: 275vh;
+	border: 7px solid;
+}
+
+.description {
+	padding-left: 27%;
+}
