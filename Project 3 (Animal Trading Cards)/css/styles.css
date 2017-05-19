@@ -1,0 +1,41 @@
+/* add your CSS here */
+body {
+	padding-left: 30em;
+}
+#card {
+	width: 350px;
+	border: 2px solid silver;
+	box-shadow: 10px 10px 5px #888888;
+	padding: 1em;
+	padding-top: 0.1em;
+	text-align: justify;
+	padding-bottom: 0.8em;
+}
+h3 {
+	 font-family: arial black; 
+}
+img {
+	width: 340px;
+	border: 2px solid silver;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0.8em;
+}
+.facts {
+	border: 2px solid silver;
+	margin-top: 1em;
+	padding: 10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+.italics {
+	font-style: italic;
+}
+span {
+	font-weight: bold;
+}
+ul {
+	list-style-type: none;
+	text-align: left;
+}
