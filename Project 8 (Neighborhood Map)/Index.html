@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Neighbourhood Map</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta charset="utf-8">
+      <!-- Adding icon -->
+      <link rel="icon" href="img/google_maps.png">
+      <!-- Adding Google Fonts -->
+      <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet" type="text/css">
+      <!-- Linking Css and Bootstrap -->
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   </head>
+   <body>
+      <div class="container-fluid">
+         <div class="row">
+            <div class="col-sm-3 col-xs-12 top toHide tog" align="center">
+               <h1 class="header1"> Dwarka </h1>
+               </br>
+               <p> Dwarka sub-city is emerging as a cultural hub of the south-west Delhi. </p>
+               </br>
+               <input type="text" class="form-control" placeholder="Search for Eating Places" data-bind="value:input, valueUpdate:'afterkeydown', event: {keyup:searchBar}">
+               </br>
+               <p> Or select from the list below </p>
+               <ul class="list-group" data-bind="foreach:markers">
+                  <li class="list-group-item" data-bind="visible:show,text:name,event:{click:$parent.showMarker}"></li>
+               </ul>
+               <hr>
+               <span class="text"> Draw a shape to search within it for Eating Joints!</span>
+               </br></br>
+               <input id="toggle-drawing"  type="button" value="Drawing Tools" class="mybutton mybutton:active mybutton:hover" data-bind="event:{click:toggleDrawing}">
+            </div>
+            <div class="col-sm-9 col-xs-12 tog no-padding">
+               <div id="map"></div>
+            </div>
+         </div>
+      </div>
+      <div id="floating-button" onclick="navToggle()">
+         <p class="plus">=</p>
+      </div>
+      <!-- Linking Knockout Javascript and jQuery -->
+      <script src="http://knockoutjs.com/downloads/knockout-3.4.2.js"></script>
+      <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+      <!-- Linking Javascript Files -->
+      <script src="js/init.js"></script>
+      <script src="js/app.js"></script>
+      <!-- Linking Google Maps using unique API key -->
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRQrDzosT35DCvt8os-RqutAMK6SMZvBA&libraries=drawing,geometry&callback=initMap"
+         onerror="mapLoadError()"></script>
+   </body>
+</html>
