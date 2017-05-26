@@ -1,9 +1,9 @@
 # Website Performance Optimization portfolio project
 
-Open and view the Project at: [Front-End Github Repository](https://github.com/madhur-taneja/Front-End-Projects) having folder `Website Optimization`.
+Open and view the Project using `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Front-End-Projects) having folder `Website Optimization`.
 
 ## Getting started
-* As web applications become increasingly interactive and accessed on a variety of devices there are a variety of opportunities in which performance issues can hinder the user experience. This project presents a number of those performance issues and provides an opportunity to showcase my skills in identifying and optimizing web applications.
+* As web applications become increasingly interactive and accessed on a variety of devices there are a variety of opportunities in which performance issues can hinder the user experience. This project presents a number of those performance issues and provided an opportunity to showcase my skills in identifying and optimizing web applications.
 
 #### Tools required:
 
