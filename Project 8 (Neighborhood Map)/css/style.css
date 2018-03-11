@@ -6,6 +6,8 @@ body {
 
 li:hover {
 	cursor: pointer;
+	background-color: grey;
+	color: white;
 }
 
 .header1 {
