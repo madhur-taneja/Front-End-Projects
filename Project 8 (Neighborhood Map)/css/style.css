@@ -4,6 +4,10 @@ body {
 	padding: 0;
 }
 
+li:hover {
+	cursor: pointing;
+}
+
 .header1 {
 	color: #f2f2f2;
 	background-color: #123456;
