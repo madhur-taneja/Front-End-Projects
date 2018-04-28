@@ -1,7 +1,7 @@
 # Neighbourhood Map Project
 
 * Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Front-End-Projects) having folder `Neighborhood Map`.
-* The project is also hosted [here](https://madhur-taneja.github.io/Front-End-Projects/Project%208%20(Neighborhood%20Map)/Index.html).
+* The project is also hosted [here](https://madhur-taneja.github.io/Front-End-Projects/Project%208%20(Neighborhood%20Map)/index.html).
 
 ## Getting started
 
