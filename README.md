@@ -20,7 +20,7 @@ Inside the repo you'll find the following folders used to organize projects of F
 ```
 Front-End Projects/
 └──├── Project 1 (Establishing Developer Mindset)
-   ├── Project 2 (Mock-up Article)
+   ├── Project 2 (Mockup to Article)
    ├── Project 3 (Animal Trading Cards)
    ├── Project 4 (Build a Portfolio Site)
    ├── Project 5 (Online Resume)
