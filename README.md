@@ -4,7 +4,7 @@
 [![CSS](https://img.shields.io/badge/css-3-563d7c)]()
 [![Javascript](https://img.shields.io/badge/javascript-1.8.5-f1e05a)]()
 
-* This Repository contains my front-end web development projects which were a part of the ** Front-End Nanodegree Program (FEND) ** by Udacity. The main technologies used were HTML5, CSS3, Bootstrap3 and Javascript.
+This Repository contains my front-end web development projects which were a part of the **Front-End Nanodegree Program (FEND)** by Udacity. The main technologies used were HTML5, CSS3, Bootstrap3 and Javascript.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Inside the repo you'll find the following folders used to organize projects of F
 
 ```
 Front-End Projects/
-└──├── Project 1 (Establishing a Web Developer Mindset)
+└──├── Project 1 (Establishing Developer Mindset)
    ├── Project 2 (Mock-up Article)
    ├── Project 3 (Animal Trading Cards)
    ├── Project 4 (Build a Portfolio Site)
@@ -36,14 +36,15 @@ Front-End Projects/
 
 The following is a list of current projects required to complete the Front End Nanodegree along with the starter codes if it's provided by Udacity.
 
-1. [Mockup to Article](https://github.com/udacity/frontend-mockup-to-article)
-2. [Animal Trading Cards](https://github.com/udacity/fend-animal-trading-cards)
-3. Build a Portfolio Site
-4. [Online Resume](https://github.com/udacity/frontend-nanodegree-resume)
-5. [Classic Arcade Game Clone](https://github.com/udacity/frontend-nanodegree-arcade-game)
-6. [Website Optimization](https://github.com/udacity/frontend-nanodegree-mobile-portfolio)
-7. Neighborhood Map
-8. [Feed Reader Testing](http://github.com/udacity/frontend-nanodegree-feedreader)
+1. Establishing Developer Mindset
+2. [Mockup to Article](https://github.com/udacity/frontend-mockup-to-article)
+3. [Animal Trading Cards](https://github.com/udacity/fend-animal-trading-cards)
+4. Build a Portfolio Site
+5. [Online Resume](https://github.com/udacity/frontend-nanodegree-resume)
+6. [Classic Arcade Game Clone](https://github.com/udacity/frontend-nanodegree-arcade-game)
+7. [Website Optimization](https://github.com/udacity/frontend-nanodegree-mobile-portfolio)
+8. Neighborhood Map
+9. [Feed Reader Testing](http://github.com/udacity/frontend-nanodegree-feedreader)
 
 ## Tools
 
