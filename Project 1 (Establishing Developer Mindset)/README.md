@@ -14,9 +14,9 @@ The project is also hosted on [GitHub Pages](https://madhur-taneja.github.io/Fro
 
 ## Project Summary
 
-On the project submission page, these things were expected of us:
+On the project submission page, these things were expected of us with the given scenario's:
 
-1. Imagine that you are a month into your Nanodegree program and you’re stuck. Totally stuck. You have no idea what’s wrong and you have no idea how to get yourself out of this mess. You’ll write a letter to yourself using what you’ve learned.How will you solve your problem? What skills do you have now that will help you tackle challenges? How will what you’ve learned about having a growth mindset help you reach your goals?
+1. Imagine that you are a month into your Nanodegree program and you’re stuck. Totally stuck. You have no idea what’s wrong and you have no idea how to get yourself out of this mess. You’ll write a letter to yourself using what you’ve learned. How will you solve your problem? What skills do you have now that will help you tackle challenges? How will what you’ve learned about having a growth mindset help you reach your goals?
 Optional: Consider writing your letter using basic markdown syntax, a key skill that front-end developers use to write readmes.
 
 2. Write a brief statement sharing your goals as a developer with us. These goals can be project goals, career goals, or personal goals. Is there a dream job you’re working toward? Is there a project idea you’ve been aching to start working on?
