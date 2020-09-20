@@ -1,7 +1,7 @@
 # Animal Trading Cards
 
 [![HTML](https://img.shields.io/badge/html-5-e34c26)]()
-[![CSS](https://img.shields.io/badge/css-3-563d7c)]()
+[![CSS](https://img.shields.io/badge/css-3-264de4)]()
 
 Recreating a webpage from a design prototype of a trading card
 
