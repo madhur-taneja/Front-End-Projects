@@ -14,7 +14,7 @@ The project is also hosted on [GitHub Pages]
 
 # Getting Started
 
-The primary task of this project is to edit `index.html` to clone the given mockup and answer a few questions in `reflections.txt`
+The primary task of this project is to edit `index.html` to clone what you see in the [blog-mockup.pdf] and answer a few questions in `reflections.txt`
 
 The starter code can be found in [Udacity's Repository]
 
@@ -29,3 +29,5 @@ The project will be evaluated by a Udacity code reviewer according to the projec
 
 [Udacity's Repository]: https://github.com/udacity/frontend-mockup-to-article
 [rubric]: https://review.udacity.com/#!/projects/7359899771/rubric
+
+[blog-mockup.pdf]: https://github.com/madhur-taneja/Front-End-Projects/blob/master/Project%202%20(Mockup%20to%20Article)/blog-mockup.pdf
