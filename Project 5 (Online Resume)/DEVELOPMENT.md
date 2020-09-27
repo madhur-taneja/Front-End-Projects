@@ -1,6 +1,17 @@
-# Project Details
-## How do I complete this project?
-Review the Online Resume [Project Rubric](https://review.udacity.com/?_ga=1.189245867.12280332.1465333852#!/projects/2962818615/rubric).
+# Development
+
+Follow these instructions to develop a similar project
+
+## Table of Contents
+- [Project Details](#project-details)
+- [Getting Started](#getting-started)
+  - [js/helper.js](#jshelperjs)
+  - [Your Process](#your-process)
+- [Result](#result)
+
+## Project Details
+
+*How do I complete this project?*
 
 1. In this project you will store your resume data in four javaScript objects according to the schema given below. As is often the case when leveraging an API, the objects must follow the schema exactly. All properties must be present and have real or fake values. The names must match those in the schema (note that object and property names are case-sensitive). All property values should be of the data-type given for the property in the schema. For example if the data-type is given as an array, it is not acceptable to use a string as a value for that property.
 2. Once you've created your javaScript objects, you will write the code needed to display all of the resume data contained within these objects in your resume.
@@ -13,10 +24,6 @@ Review the Online Resume [Project Rubric](https://review.udacity.com/?_ga=1.1892
 8. Check your work against the [Project Rubric](https://review.udacity.com/?_ga=1.189245867.12280332.1465333852#!/projects/2962818615/rubric).
 9. When you are satisfied with your project, submit it according to the Submission Instructions below.
 
-### By the end:
-Your resume will look something like this
-![](http://i.imgur.com/pWU1Xbl.png)
-
 And your repository will include the following files:
 
 * **index.html**: The main HTML document. Contains links to all of the CSS and JS resources needed to render the resume, including resumeBuilder.js.
@@ -28,13 +35,14 @@ And your repository will include the following files:
 The GitHub readme file.
 * and some images in the images directory.
 
-## Your starting point...
+## Getting Started
+
 ### js/helper.js
 Within helper.js, you’ll find a large collection of strings containing snippets of HTML. Within many snippets, you’ll find placeholder data in the form of `%data%` or `%contact%`.
 
 Each string has a title that describes how it should be used. For instance, `HTMLworkStart` should be the first `<div>` in the Work section of the resume. `HTMLschoolLocation` contains a `%data%` placeholder which should be replaced with the location of one of your schools.
 
-### Your process:
+### Your Process:
 The resume has four distinct sections: work, education, projects and a header with biographical information. You’ll need to:
 
 1. Build four JavaScript objects, each one representing a different resume section. The objects that you create (including property names and the data types of their values) need to follow the schema below exactly. All properties should be included and contain a value of the type specified unless the property is marked 'optional'. Property values may contain real or fake data. Property names are case-sensitive. Make sure your javaScript objects are formatted correctly using [jshint.com](http://jshint.com/).
@@ -104,3 +112,7 @@ The resume has four distinct sections: work, education, projects and a header wi
 4. All of your code for adding elements to the resume should be contained within functions. 
 5. As described in the javaScript object schema, each 'display' function should be encapsulated within the javaScript object it displays in the resume. For instance, your 'display' function for appending 'work' experience data to the resume should be encapsulated within the 'work' javaScript object. The 'display' function can be encapsulated within the 'work' javaScript object definition in the same way other properties are defined there, or it can be encapsulated later in the file using dot notation. For example: `work.display =`
 6. It’s possible to make additional information show up when you click on the pins in the map. Check out line 174 in helper.js and the Google Maps API to get started.
+
+## Result:
+Your resume will look something like this
+![](http://i.imgur.com/pWU1Xbl.png)
